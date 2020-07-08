@@ -1,0 +1,239 @@
+.alignment{
+  min-width:1219px;
+  padding: 0px 55px;
+}
+
+.header{
+  position: fixed;
+  background: #007765;
+  min-width:1219px;
+  height:84px;
+  padding: 0px 0px;
+  top:0;
+  left:0;
+  right:0;
+
+}
+.header_box{
+  clear:both;
+  margin: 0px auto;
+  max-width: 1100px;
+  padding: 0px 55px;
+}
+.header .logo_left{
+  float: left;
+  margin: 0px;
+  padding-top:20px;
+  padding-bottom:19px;
+  }
+
+.header .sentence_right{
+float: right;
+color: #FFFFFF;
+font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+padding-top:26px;
+padding-bottom:20px;
+margin: 0px;
+}
+a{
+  text-decoration: none;
+  color:white;
+}
+
+.header .sentence_right p{
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  }
+
+.Jumbotron{
+  background: url("img/image-8.png");
+  background-size: cover;
+  padding:150px 0px;
+  color: #FFFFFF;
+  min-width:1219px;
+  /*width:100vw;*/
+  /*min-width:1219px;*/
+}
+
+.Jumbotron h1{
+font-size: 72px;
+line-height: 84px;
+text-align: center;
+}
+
+.The_Problem{
+  background-color: whitesmoke;
+  margin: 0px 0px;
+  min-width:1219px;
+  max-width:100vw;
+  padding: 25px 55px;
+}
+
+.Container{
+  width: 1110px;
+  height: 488px;
+  margin: 0px auto;
+}
+
+.The_Problem h1{  
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+text-align: center;
+color: #007765;
+margin-bottom: 20px;
+}
+
+.Container p{
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+
+font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 37px;
+}
+
+.Hero{
+  font-family: Roboto, sans-serif;
+font-style: italic;
+font-weight: 500;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+
+background: url("img/image-9.png");
+background-size: cover;
+max-width:100vw;
+max-height: 483px;
+color:white;
+padding-top: 128px;
+padding-bottom: 127px;
+box-sizing: border-box;
+}
+.Hero div{
+  max-width: 893px;
+  height: 228px;
+  margin: 0px auto;
+}
+
+.PPC{
+  background-color: white;
+  min-width:1110px;
+  max-width:100vw;
+  margin: 0px 0px;
+  padding: 0px 0px;
+  box-sizing: border-box;
+}
+.PPC h1{
+  text-align: center;
+  padding: 0px;
+  font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 75px;
+color: #007765;
+}
+
+.PPC .main{
+margin: 0px auto;
+width: 1110px;
+height: 373px;
+left: 55px;
+top: 1978px;
+clear: both;
+
+font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 37px;
+}
+
+.PPC .img{
+  float:left;
+  margin-right: 48px;
+}
+
+.TheTeam{
+  min-width:1110px;
+  max-width:100vw; 
+  background: #EEEEEE;
+}
+
+.TheTeam h1{
+  text-align: center;
+  font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 75px;
+color: #007765;
+}
+
+.TheTeam .img{
+  width:32vw;
+  box-sizing:border-box; 
+  text-align: center;
+  display: inline-block;
+  padding:15px 15px;
+}
+.TheTeam .img .name{
+  color: #007765;
+  font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+}
+
+.TheTeam .img p{
+  font-family: Roboto, sans-serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  margin: 0px;
+}
+
+.Footer{
+  background-color: #333333;
+  min-width:1110px;
+  max-width:100vw;
+  padding:48px 0px 64px;
+}
+
+.Footer .F_cont{
+  max-width: 540px;
+  height: 64px;
+  font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+color:white;
+margin:0px auto;
+padding:0px
+}
+.Footer p{
+  margin:0px;
+  padding:0px;
+}
+
+
